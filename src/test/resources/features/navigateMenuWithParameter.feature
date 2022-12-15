@@ -1,5 +1,5 @@
 Feature: Navigate to menu with parameter
-  @rerun
+
   Scenario: Harun navigates to edit profile menu
     Given User should be on the login page
     When User should input "mike@gmail.com" and "mike1234"
